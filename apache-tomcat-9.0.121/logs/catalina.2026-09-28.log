@@ -1,0 +1,79 @@
+28-Sep-2026 09:52:26.652 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.121
+28-Sep-2026 09:52:26.655 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 12 2026 19:38:16 UTC
+28-Sep-2026 09:52:26.656 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.121.0
+28-Sep-2026 09:52:26.656 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+28-Sep-2026 09:52:26.656 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            7.0.0-34-generic
+28-Sep-2026 09:52:26.656 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+28-Sep-2026 09:52:26.656 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-25-openjdk-amd64
+28-Sep-2026 09:52:26.656 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           25.0.4.1+1-1-26.04.4-Ubuntu
+28-Sep-2026 09:52:26.656 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Ubuntu
+28-Sep-2026 09:52:26.657 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/sahil-sepat/Desktop/adj/apache-tomcat-9.0.121
+28-Sep-2026 09:52:26.657 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/sahil-sepat/Desktop/adj/apache-tomcat-9.0.121
+28-Sep-2026 09:52:26.665 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+28-Sep-2026 09:52:26.665 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.invoke=ALL-UNNAMED
+28-Sep-2026 09:52:26.665 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+28-Sep-2026 09:52:26.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+28-Sep-2026 09:52:26.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+28-Sep-2026 09:52:26.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+28-Sep-2026 09:52:26.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+28-Sep-2026 09:52:26.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/sahil-sepat/Desktop/adj/apache-tomcat-9.0.121/conf/logging.properties
+28-Sep-2026 09:52:26.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+28-Sep-2026 09:52:26.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+28-Sep-2026 09:52:26.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+28-Sep-2026 09:52:26.667 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+28-Sep-2026 09:52:26.667 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+28-Sep-2026 09:52:26.667 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+28-Sep-2026 09:52:26.667 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/sahil-sepat/Desktop/adj/apache-tomcat-9.0.121
+28-Sep-2026 09:52:26.667 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/sahil-sepat/Desktop/adj/apache-tomcat-9.0.121
+28-Sep-2026 09:52:26.667 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/sahil-sepat/Desktop/adj/apache-tomcat-9.0.121/temp
+28-Sep-2026 09:52:26.669 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+28-Sep-2026 09:52:27.000 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+28-Sep-2026 09:52:27.016 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [554] milliseconds
+28-Sep-2026 09:52:27.045 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+28-Sep-2026 09:52:27.045 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.121]
+28-Sep-2026 09:52:27.057 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/sahil-sepat/Desktop/adj/apache-tomcat-9.0.121/webapps/servlet-1.0-SNAPSHOT.war]
+28-Sep-2026 09:52:27.257 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/sahil-sepat/Desktop/adj/apache-tomcat-9.0.121/webapps/servlet-1.0-SNAPSHOT.war] has finished in [196] ms
+28-Sep-2026 09:52:27.257 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/sahil-sepat/Desktop/adj/apache-tomcat-9.0.121/webapps/ROOT]
+28-Sep-2026 09:52:27.283 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/sahil-sepat/Desktop/adj/apache-tomcat-9.0.121/webapps/ROOT] has finished in [25] ms
+28-Sep-2026 09:52:27.283 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/sahil-sepat/Desktop/adj/apache-tomcat-9.0.121/webapps/examples]
+28-Sep-2026 09:52:27.454 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/sahil-sepat/Desktop/adj/apache-tomcat-9.0.121/webapps/examples] has finished in [171] ms
+28-Sep-2026 09:52:27.454 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/sahil-sepat/Desktop/adj/apache-tomcat-9.0.121/webapps/docs]
+28-Sep-2026 09:52:27.467 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/sahil-sepat/Desktop/adj/apache-tomcat-9.0.121/webapps/docs] has finished in [13] ms
+28-Sep-2026 09:52:27.467 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/sahil-sepat/Desktop/adj/apache-tomcat-9.0.121/webapps/myWebapp]
+28-Sep-2026 09:52:27.478 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/sahil-sepat/Desktop/adj/apache-tomcat-9.0.121/webapps/myWebapp] has finished in [11] ms
+28-Sep-2026 09:52:27.478 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/sahil-sepat/Desktop/adj/apache-tomcat-9.0.121/webapps/manager]
+28-Sep-2026 09:52:27.496 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/sahil-sepat/Desktop/adj/apache-tomcat-9.0.121/webapps/manager] has finished in [18] ms
+28-Sep-2026 09:52:27.496 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/sahil-sepat/Desktop/adj/apache-tomcat-9.0.121/webapps/host-manager]
+28-Sep-2026 09:52:27.514 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/sahil-sepat/Desktop/adj/apache-tomcat-9.0.121/webapps/host-manager] has finished in [18] ms
+28-Sep-2026 09:52:27.517 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+28-Sep-2026 09:52:27.525 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [507] milliseconds
+28-Sep-2026 09:53:19.553 INFO [http-nio-8080-exec-1] org.apache.coyote.http11.Http11Processor.service Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+	java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x010x060xda0x010x000x060xd60x030x030xc80x91,0x1c0x0e0xc1mV0x8e0xd60xae0xa90xd70x9b0x160x150x82h40xde>n0x80[/*0xdf0x890x810xabJ0xcb ]. HTTP method names must be tokens
+		at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:410)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:280)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:71)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:1344)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:2254)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:74)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:976)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:494)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:80)
+		at java.base/java.lang.Thread.run(Thread.java:1474)
+28-Sep-2026 09:53:19.571 INFO [http-nio-8080-exec-2] org.apache.coyote.http11.Http11Processor.service Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+	java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x010x060xba0x010x000x060xb60x030x030x8bj80x9e0xbees0\.0x0a50xba0x1d?0xe40x90;k0x060xb30x14?L0xaa0x1b0x0e0xbc0xc00xb0U) ]. HTTP method names must be tokens
+		at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:410)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:280)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:71)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:1344)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:2254)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:74)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:976)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:494)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:80)
+		at java.base/java.lang.Thread.run(Thread.java:1474)
+28-Sep-2026 10:44:21.988 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+28-Sep-2026 10:44:21.999 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+28-Sep-2026 10:44:22.028 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+28-Sep-2026 10:44:22.031 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

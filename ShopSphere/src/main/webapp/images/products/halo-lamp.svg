@@ -1,0 +1,21 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Halo Lamp">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="hsl(44, 68%, 52%)"/>
+      <stop offset="100%" stop-color="hsl(84, 72%, 38%)"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <circle cx="120" cy="90" r="180" fill="rgba(255,255,255,0.10)"/>
+  <circle cx="700" cy="520" r="230" fill="rgba(0,0,0,0.08)"/>
+      <g transform="translate(400,268)">
+      <path d="M-120 40 L-40 -80 L20 40 Z" fill="rgba(255,255,255,0.95)"/>
+      <path d="M0 40 L60 140" stroke="rgba(255,255,255,0.95)" stroke-width="18" stroke-linecap="round"/>
+      <rect x="-70" y="138" width="150" height="22" rx="11" fill="rgba(255,255,255,0.88)"/>
+      <circle cx="-40" cy="-30" r="70" fill="rgba(255,240,180,0.30)"/>
+    </g>
+  <text x="400" y="524" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="34" font-weight="700" fill="#ffffff">Halo Lamp</text>
+  <text x="400" y="562" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="20" fill="rgba(255,255,255,0.82)">Dimmable LED task light</text>
+</svg>

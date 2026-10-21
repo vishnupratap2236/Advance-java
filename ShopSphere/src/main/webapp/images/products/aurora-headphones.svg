@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Aurora Headphones">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="hsl(232, 68%, 52%)"/>
+      <stop offset="100%" stop-color="hsl(272, 72%, 38%)"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <circle cx="120" cy="90" r="180" fill="rgba(255,255,255,0.10)"/>
+  <circle cx="700" cy="520" r="230" fill="rgba(0,0,0,0.08)"/>
+      <g transform="translate(400,268)">
+      <path d="M-150 40 v-30 a150 150 0 0 1 300 0 v30" fill="none" stroke="rgba(255,255,255,0.92)" stroke-width="18" stroke-linecap="round"/>
+      <rect x="-176" y="34" width="56" height="96" rx="24" fill="rgba(255,255,255,0.95)"/>
+      <rect x="120" y="34" width="56" height="96" rx="24" fill="rgba(255,255,255,0.95)"/>
+    </g>
+  <text x="400" y="524" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="34" font-weight="700" fill="#ffffff">Aurora Headphones</text>
+  <text x="400" y="562" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="20" fill="rgba(255,255,255,0.82)">Hybrid ANC over-ear</text>
+</svg>
